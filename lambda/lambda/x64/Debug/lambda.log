@@ -1,0 +1,32 @@
+﻿  lambda.cpp
+C:\Users\lucas\source\repos\lambda\lambda\lambda.cpp(15,18): warning C4244: "+=": konwersja z "_T1" do "int", możliwa utrata danych
+          with
+          [
+              _T1=double
+          ]
+C:\Users\lucas\source\repos\lambda\lambda\lambda.cpp(36): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „double main::<lambda_1>::operator ()<double>(_T1,mathOp)” funkcji szablon
+          with
+          [
+              _T1=double
+          ]
+C:\Users\lucas\source\repos\lambda\lambda\lambda.cpp(19,18): warning C4244: "-=": konwersja z "_T1" do "int", możliwa utrata danych
+          with
+          [
+              _T1=double
+          ]
+C:\Users\lucas\source\repos\lambda\lambda\lambda.cpp(27,18): warning C4244: "+=": konwersja z "_T1" do "int", możliwa utrata danych
+          with
+          [
+              _T1=double
+          ]
+C:\Users\lucas\source\repos\lambda\lambda\lambda.cpp(37): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „double main::<lambda_2>::operator ()<double>(_T1,mathOp) const” funkcji szablon
+          with
+          [
+              _T1=double
+          ]
+C:\Users\lucas\source\repos\lambda\lambda\lambda.cpp(31,18): warning C4244: "-=": konwersja z "_T1" do "int", możliwa utrata danych
+          with
+          [
+              _T1=double
+          ]
+  lambda.vcxproj -> C:\Users\lucas\source\repos\lambda\x64\Debug\lambda.exe
